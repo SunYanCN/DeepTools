@@ -10,4 +10,7 @@ pip国内加速工具 [官网](https://github.com/yhangf/PyQuickInstall)
 ## nni 
 微软开源的自动调参工具 [官网](https://github.com/Microsoft/nni)
 ![VdSW3F.md.png](https://s2.ax1x.com/2019/06/06/VdSW3F.md.png)
+## 文本标注工具
+支持命名实体识别、机器翻译、文本分类任务的标注[官网](https://github.com/chakki-works/doccano)
+![](https://github.com/chakki-works/doccano/raw/master/docs/named_entity_annotation.gif)
 
