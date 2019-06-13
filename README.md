@@ -17,6 +17,7 @@ pip国内加速工具 [官网](https://github.com/yhangf/PyQuickInstall)
 ![](https://github.com/chakki-works/doccano/raw/master/docs/named_entity_annotation.gif)
 ## gitdir
 允许下载github仓库里的某个文件,类似与svn. [官网](https://github.com/sdushantha/gitdir)
+
 ![VharAe.png](https://s2.ax1x.com/2019/06/13/VharAe.png)
 
 
